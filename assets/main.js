@@ -7,5 +7,5 @@ nbutton.addEventListener('mouseover', function () {
 });
 
 ybutton.addEventListener('click', function () {
-    alert('   😍 I knew it! Love you too 😘  ');
+    alert('   😍 I knew it! 😍  ');
 })
